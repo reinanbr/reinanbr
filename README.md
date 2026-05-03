@@ -31,6 +31,44 @@
 
 ---
 
+# libs
+
+# Python 3.10+
+
+## Lib's
+
+### Science
+
+- [noawclg](https://github.com/reinanbr/noawclg "working with data NOAA/NASA climate") <a href='https://pypi.org/project/noawclg'><img src='https://img.shields.io/pypi/v/noawclg'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/noawclg"></a><img alt="PyPI - License" src="https://img.shields.io/pypi/l/noawclg?color=brightgreen">
+
+- [GWaves](https://github.com/reinanbr/gwaves 'A lib from python for works with gravitational waves data (Nov 2021)') <a href='https://pypi.org/project/gwaves'><img src='https://img.shields.io/pypi/v/gwaves'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/gwaves"></a><img alt="PyPI - License" src="https://img.shields.io/pypi/l/gwaves?color=brightgreen">
+
+- [NOAAWC](https://github.com/reinanbr/noaawc "working and ploting with data NOAA/NASA climate") <a href='https://pypi.org/project/noaawc'><img src='https://img.shields.io/pypi/v/noaawc'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/noaawc"></a><img alt="PyPI - License" src="https://img.shields.io/pypi/l/noaawc?color=brightgreen">
+
+- [CandPhy](https://github.com/reinanbr/candphy "Working science") <a href='https://pypi.org/project/candphy'><img src='https://img.shields.io/pypi/v/candphy'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/candphy"></a><img alt="PyPI - License" src="https://img.shields.io/pypi/l/candphy?color=brightgreen">
+
+### DataBases Work's
+
+- [Dreams](https://github.com/reinanbr/dreams "A lib from python for getting educative videos from any site's") <a href='https://pypi.org/project/dreams'><img src='https://img.shields.io/pypi/v/dreams'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/dreams"></a><img alt="PyPI - License" src="https://img.shields.io/pypi/l/dreams?color=brightgreen">
+
+- [rocketlc](https://github.com/reinanbr/rocketlc "working with data launch rocket's schedule") <a href='https://pypi.org/project/rocketlc'><img src='https://img.shields.io/pypi/v/rocketlc'><img alt="CircleCI" src="https://img.shields.io/circleci/build/gh/reinanbr/rocketlc"><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/rocketlc"></a><img alt="PyPI - License" src="https://img.shields.io/pypi/l/rocketlc?color=brightgreen">
+
+- [TubeMp3](https://github.com/reinanbr/tubemp3 'a lib for get music from youtube in high quality (Jan 2022)') <a href='https://pypi.org/project/tubemp3'><img src='https://img.shields.io/pypi/v/tubemp3'></a><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/tubemp3"><img alt="PyPI - License" src="https://img.shields.io/pypi/l/tubemp3?color=brightgreen">
+
+### Tool's Development
+
+- [AnimatPlot](https://github.com/reinanbr/animatPlot "Biblioteca para criação de plots animados como GIF ou MP4") <a href='https://pypi.org/project/animatplot'><img src='https://img.shields.io/pypi/v/animatplot'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/animatplot"></a><img alt="PyPI - License" src="https://img.shields.io/pypi/l/animatplot?color=brightgreen">
+
+- [send_gmail_python](https://github.com/reinanbr/send_gmail_python "Envio de e-mails via Gmail com Python") <a href='https://pypi.org/project/send-gmail-python'><img src='https://img.shields.io/pypi/v/send-gmail-python'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/send-gmail-python"></a><img alt="PyPI - License" src="https://img.shields.io/pypi/l/send-gmail-python?color=brightgreen">
+
+- [pix_plugin_mp_py](https://github.com/reinanbr/pix_plugin_mp_py "Plugin Pix MercadoPago") <a href='https://pypi.org/project/pix-plugin-mp-py'><img src='https://img.shields.io/pypi/v/pix-plugin-mp-py'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/pix-plugin-mp-py"></a><img alt="PyPI - License" src="https://img.shields.io/pypi/l/pix-plugin-mp-py?color=brightgreen">
+
+- [api_climate_py](https://github.com/reinanbr/api_climate_py "API de dados climáticos") <a href='https://pypi.org/project/api-climate-py'><img src='https://img.shields.io/pypi/v/api-climate-py'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/api-climate-py"></a><img alt="PyPI - License" src="https://img.shields.io/pypi/l/api-climate-py?color=brightgreen">
+
+- [api_forex_py](https://github.com/reinanbr/api_forex_py "API de taxas de câmbio Forex") <a href='https://pypi.org/project/api-forex-py'><img src='https://img.shields.io/pypi/v/api-forex-py'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/api-forex-py"></a><img alt="PyPI - License" src="https://img.shields.io/pypi/l/api-forex-py?color=brightgreen">
+
+---
+
 # reinanbr — Repositórios
 
 > 157 repositórios públicos organizados por tipo · linguagem · framework.
