@@ -16,10 +16,6 @@
 </a>
 </p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=reinanbr&row=2&column=3"/>
-</p>
-
 ---
 
 
